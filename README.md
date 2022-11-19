@@ -1,2 +1,2 @@
-# homenc-org.github.io
-Website
+# homomorphicencryption.github.io
+<homomorphicencryption.github.io>
