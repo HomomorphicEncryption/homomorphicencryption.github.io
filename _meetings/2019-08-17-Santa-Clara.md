@@ -9,7 +9,10 @@ Based on the success of our previous standards meetings, and the founding of the
 The workshop is targeted at application developers, security practitioners, and homomorphic encryption experts. 
 Along with technical standards discussions, the program includes introductory sessions for more general audiences. 
 The workshop is also a great place for PhD students to meet representatives from industry and academia. 
-The main standardization goals of this meeting are to (a) update the security standard, (b) introduce scheme-specific white papers, and (c) discuss protocol standardization for applications.
+The main standardization goals of this meeting are to:
+a) update the security standard
+b) introduce scheme-specific white papers
+c) discuss protocol standardization for applications.
 
 **Date**: August 17, 2019
 
