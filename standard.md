@@ -15,7 +15,7 @@ Today, this document provides scheme descriptions, a detailed explanation of the
 Future versions of the standard may describe a standard API and a programming model for homomorphic encryption.
 
 # Download the Standard
-Download the Homomorphic Encryption Security Standard (November 21, 2018) [pdf](https://github.com/HomomorphicEncryption/homomorphicencryption.github.io/raw/main/assets/HomomorphicEncryptionStandardv1.1.pdf)
+Download the Homomorphic Encryption Security Standard (November 21, 2018) [pdf](HomomorphicEncryptionStandard2018.pdf)
 
 Please use the following BibTeX entry when citing the standard.
 
