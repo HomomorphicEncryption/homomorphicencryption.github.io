@@ -15,7 +15,7 @@ Today, this document provides scheme descriptions, a detailed explanation of the
 Future versions of the standard may describe a standard API and a programming model for homomorphic encryption.
 
 # Download the Standard
-Download the Homomorphic Encryption Security Standard (November 21, 2018) [pdf](https://github.com/homenc-org/homenc-org.github.io/raw/main/assets/HomomorphicEncryptionStandardv1.1.pdf)
+Download the Homomorphic Encryption Security Standard (November 21, 2018) [pdf](https://github.com/HomomorphicEncryption/homomorphicencryption.github.io/raw/main/assets/HomomorphicEncryptionStandardv1.1.pdf)
 
 Please use the following BibTeX entry when citing the standard.
 
@@ -37,4 +37,4 @@ This Google doc is a candidate update to the standard which contains mostly smal
 We solicit comments on this draft update which we hope to vote on at future meetings. (January 7, 2019) [[Google Doc](https://docs.google.com/document/d/106W-tFEbChJQfbqEE7PnIVqEBPzYD_pqrMn55UKDCOc/)]
 
 # Download Old Versions of the Standard
-Download the Homomorphic Encryption Security Standard (March 16, 2018) [[pdf](/assets/oldlink)]
+Download the Homomorphic Encryption Security Standard (March 16, 2018) [[pdf](/assets/HomomorphicEncryptionStandard2018.pdf)]
