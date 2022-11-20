@@ -8,3 +8,5 @@ intro_image_hide_on_mobile: true
 ---
 
 # News
+
+Stay up-to-date with the latest from HE.org
