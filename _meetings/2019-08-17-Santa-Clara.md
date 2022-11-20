@@ -24,6 +24,22 @@ REGISTRATION CLOSED
 
 ## Agenda
 
+| Time        |                                                                                                                                                                                                   |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 8:00-9:00   | Registration and networking breakfast / Poster set-up                                                                                                                                             |
+| 9:00-9:15   | Intro and welcome; Casimir Wierzynski (Intel)                                                                                                                                                     |
+| 9:15-10:15  | Status updates of the standards community; Kim Laine (Microsoft) [slides], Tancrede Lepoint (Google) [slides], Jung Hee Cheon (Seoul National University) [slides], Ro Cammarota (Intel) [slides] |
+| 10:15-11:15 | Usability for application developers; Flavio Bergamaschi (IBM Research), Fabian Boemer (Intel), Kurt Rohloff (NJIT/Duality), Axel Schröpfer (SAP) [slides]; moderated by Shai Halevi (Algorand)   |
+| 11:15-11:30 | Poster preview; (1 min no-slide announcement per poster.)                                                                                                                                         |
+| 11:30-12:30 | Lunch / Posters                                                                                                                                                                                   |
+| 12:30-13:00 | Applications; Kurt Rohloff (Duality), Juan Troncoso-Pastoriza (EPFL) [slides]                                                                                                                     |
+| 13:00-13:30 | Update from Libraries mailing list; Kim Laine (Microsoft), Yuriy Polyakov (NJIT) [slides], Mariya Georgieva (Inpher) [slides]                                                                     |
+| 13:30-14:00 | Break / Posters                                                                                                                                                                                   |
+| 14:00-15:30 | Security standard discussion; Kristin Lauter (Microsoft) [slides], Daniele Micciancio (UCSD), Rachel Player (RHUL), Ben Curtis (RHUL) [slides]                                                    |
+| 15:30-15:45 | Break / Posters                                                                                                                                                                                   |
+| 15:45-16:30 | Governance; Yaron Sheffer (Intuit) [slides], Bastiaan Quast (ITU) [slides]                                                                                                                        |
+| 16:30-17:00 | Going forward and conclusion,  Straw poll on next workshop                                                                                                                                        |                                                                                                                                                                                                  |
+
 
 ## Posters
 
