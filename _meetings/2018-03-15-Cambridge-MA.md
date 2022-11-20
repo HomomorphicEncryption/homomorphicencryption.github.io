@@ -1,84 +1,89 @@
 ---
 title: "[2] Cambridge MA"
 date: 2018-03-15T12:33:46+02:00
-weight: 1
 ---
 
-Cambridge, MA
+The 2nd meeting took place 15-16 March 2018 at MIT
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Based on the success of our inaugural standards meeting last summer, and the founding of the homomorphicencryption.org industry consortium, we are pleased to announce the next edition of our standards meeting. 
+The goals of this meeting are to approve a draft standard for parameter selection for homomorphic encryption and revisit our initial API standard draft. 
+We welcome new participants who wish to be a part of this homomorphic encryption standards community. 
+This includes academics and researchers, as well as representatives from industry, government, and nonprofits from around the world.
 
-# Objectives
+The Standardization Workshop will be held in Cambridge, Massachusetts, USA on March 15-16, 2018.
 
-Financial accounting and financial reporting are often used as synonyms.
+Location. MIT Stata Center, 32 Vassar Street, Room D-463 (Star), Cambridge MA 02139. For more detailed directions, see here.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Workshop Goals. The workshop has two main goals: (1) Approve a draft standard for parameter selection of homomorphic encryption; and (2) Build upon the API discussion from first workshop and outline steps forward.
 
-## Relevance
+Download the homomorphic encryption draft standard for parameter selection here.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Co-sign the homomorphic encryption draft standard for parameter selection here.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Agenda
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### Day 1: Focus on Security Standard (Thursday, March 15)
 
-## Faithful Representation
+| time        | Activity                                                                                                                |
+|-------------|-------------------------------------------------------------------------------------------------------------------------|
+| 8:00-9:00   | Networking Breakfast (32-G882/Hewlett)                                                                                  |
+| 9:00-9:15   | Opening Welcome: Kristin Lauter (MSR), Vinod Vaikuntanathan (MIT)                                                       |
+| 9:15-10:15  | Review Standards Document: Kristin Lauter (MSR), Vinod Vaikuntanathan (MIT)                                             |
+| 10:15-10:45 | Break (Coffee Provided)                                                                                                 |
+| 10:45-12:00 | Panel: Security Estimation Based on Parameter Selection                                                                 |
+|             | Moderator: Kim Laine (MSR)                                                                                              |
+|             | Panelists: Martin Albrecht (Royal Holloway) [slides], Jung Hee Cheon (SNU) [slides], Daniele Micciancio (UCSD) [slides] |
+| 12:00-1:30  | Lunch (32-D463/Star and 32-G882/Hewlett)                                                                                |
+| 1:30-2:30   | Keynote: Shafi Goldwasser (MIT)                                                                                         |
+| 2:30-4:15   | Panel: Industry Applications of Homomorphic Encryption                                                                  |
+|             | Moderator: Kurt Rohloff (NJIT)                                                                                          |
+|             | Panelists:                                                                                                              |
+|             | David Carroll (Microsoft), Jihoon Cho (Samsung SDS), Roger Hallman (US Navy), Alon Kaufman (Duality)                    |
+| 4:15-5:00   | Reflections and Close                                                                                                   |
+| 6:30-9:00   | Evening Reception and Poster-Demo Session (Boston Marriott Cambridge at Kendall Square)                                 |
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
-## Enhancing Qualitative Characteristics
+### Day 2: Focus on API, Applications and Future Directions (Friday, March 16)
 
-### Verifiability
+| time        | Activity                                                                                                   |
+|-------------|------------------------------------------------------------------------------------------------------------|
+| 8:00-9:00   | Networking Breakfast (32-D449/Kiva)                                                                        |
+| 9:00-9:15   | API Standardization: Kim Laine (MSR)                                                                       |
+| 9:15-10:15  | Panel: API Design for Homomorphic Encryption                                                               |
+|             | Moderator: Alex Malozemoff (Galois)                                                                        |
+|             | Panelists: Shai Halevi (IBM), Kim Laine (MSR), Kurt Rohloff (NJIT and Duality), Jerry Ryan (NJIT) [slides] |
+| 10:15-10:30 | Programming Model: Alex Malozemoff (Galois)                                                                |
+| 10:30-11:00 | Break (Coffee Provided)                                                                                    |
+| 11:00-12:00 | Invited Technical Talks (Session 1)                                                                        |
+|             | Speakers: Kim Laine (MSR), Yongsoo Song (UCSD), Hao Chen (MSR).                                            |
+| 12:00-1:00  | Lunch (32-D463/Star and 32-G449/Kiva)                                                                      |
+| 1:00-2:30   | Panel: Health Applications                                                                                 |
+|             | Moderator: Heidi Sofia (NIH)                                                                               |
+|             | Panelists: Susan Gregurick (NIH), Sharon Gillett (MSR), Shuang Wang (iDASH/UCSD) [slides],                 |
+|             | Juan Ramon Troncoso-Pastoriza (EPFL) [slides].                                                             |
+| 2:30-3:00   | Break                                                                                                      |
+| 3:00-4:00   | Invited Technical Talks (Session 2)                                                                        |
+|             | Speakers: Nicolas Gama (Inpher), Yuriy Polyakov (NJIT), Chiraag Juvekar (MIT).                             |
+| 4:00-5:00   | Wrap Up and Close                                                                                          |
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
 
-### Comparability
+## Organization
+Local Organizer. Vinod Vaikuntanathan (MIT).
+Organizing Committee:
+- Jung Hee Cheon (SNU)
+- Kim Laine (Microsoft Research)
+- Kristin Lauter (Microsoft Research)
+- Kurt Rohloff (NJIT)
+- Vinod Vaikuntanathan (MIT)
+- Roy Zimmermann (Microsoft Research).
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## Contact
+If you have any questions, please contact the organizing committee at contact@homomorphicencryption.org. As this will be an interactive workshop, we will try to have opportunities for participants to share information that is relevant and appropriate to the goal of approving a standard for parameter selection for homomorphic encryption. Please send us an email if you have something you would like to propose to present at the workshop.
 
-### Understandability
+## Sponsorship
+This meeting is currently being generously supported by:
+- Microsoft
+- MIT
+- Duality Technologies
+- NJIT
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
