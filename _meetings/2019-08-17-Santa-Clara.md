@@ -3,6 +3,8 @@ title: "[4] Santa Clara"
 date: 2019-08-17T12:33:46+02:00
 ---
 
+The 4th meeting was held August 17, 2019 in Santa Clara, USA.
+
 Based on the success of our previous standards meetings, and the founding of the HomomorphicEncryption.org group, we are pleased to announce the Fourth HomomorphicEncryption.org Workshop.
 The workshop is targeted at application developers, security practitioners, and homomorphic encryption experts. 
 Along with technical standards discussions, the program includes introductory sessions for more general audiences. 
