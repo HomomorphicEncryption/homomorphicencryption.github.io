@@ -3,10 +3,16 @@ title: "[4] Santa Clara"
 date: 2019-08-17T12:33:46+02:00
 ---
 
-Based on the success of our previous standards meetings, and the founding of the HomomorphicEncryption.org group, we are pleased to announce the Fourth HomomorphicEncryption.org Workshop. The workshop is targeted at application developers, security practitioners, and homomorphic encryption experts. Along with technical standards discussions, the program includes introductory sessions for more general audiences. The workshop is also a great place for PhD students to meet representatives from industry and academia. The main standardization goals of this meeting are to (a) update the security standard, (b) introduce scheme-specific white papers, and (c) discuss protocol standardization for applications.
+Based on the success of our previous standards meetings, and the founding of the HomomorphicEncryption.org group, we are pleased to announce the Fourth HomomorphicEncryption.org Workshop.
+The workshop is targeted at application developers, security practitioners, and homomorphic encryption experts. 
+Along with technical standards discussions, the program includes introductory sessions for more general audiences. 
+The workshop is also a great place for PhD students to meet representatives from industry and academia. 
+The main standardization goals of this meeting are to (a) update the security standard, (b) introduce scheme-specific white papers, and (c) discuss protocol standardization for applications.
 
 **Date**: August 17, 2019
+
 **Location**: Intel SC12, 3600 Juliette Ln, Santa Clara, CA 95054
+
 **Lodging**: We are co-located with Usenix Security ’19, which is hosted in the Hyatt Regency Santa Clara.
 
 REGISTRATION CLOSED
