@@ -16,4 +16,4 @@ Hi!  We have migrated to use the following Google Groups for discussion:
 
 Please sign up to get updates and further information on activities in the community!  You do NOT need a Google email account to use the group, but you DO need to register your email address with Google to participate in the forums.
 
-To contact us in general, please email: {contact@HomomorphicEncryption.org](mailto:contact@HomomorphicEncryption.org)
+To contact us in general, please email: [contact@HomomorphicEncryption.org](mailto:contact@HomomorphicEncryption.org)
